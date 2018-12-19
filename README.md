@@ -8,4 +8,5 @@ Texture Mapping:
 ![Alt Text](./gifs/ray-casting.gif)
 
 Ray Casting:
+
 ![Alt Text](./gifs/texture-mapping.gif)
