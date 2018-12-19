@@ -5,8 +5,8 @@ Key Frame Animations:
 
 Texture Mapping:
 
-![Alt Text](./gifs/ray-casting.gif)
+![Alt Text](./gifs/texture-mapping.gif)
 
 Ray Casting:
 
-![Alt Text](./gifs/texture-mapping.gif)
+![Alt Text](./gifs/ray-casting.gif)
