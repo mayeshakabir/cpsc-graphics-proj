@@ -1,4 +1,8 @@
-# Few projects done for UBC's computer graphics course
+# Collection of projects done for UBC's computer graphics and animation course
+Key Frame Animations with uses of Bezier and Catmull-Rom Curves:
+
+![Alt Text](./gifs/key-frame-curves.gif)
+
 Key Frame Animations:
 
 ![Alt Text](./gifs/key-frame-animation.gif)
